@@ -16,9 +16,9 @@
     "@constatic/base": "latest",
     "@magicyan/discord": "1.7.3",
     "chalk": "5.6.2",
-    "discord.js": "14.26.2",
-    "zod": "4.1.11",
-    "mysql2": "3.12.0"
+    "discord.js": "^14.26.2",
+    "mysql2": "3.12.0",
+    "zod": "4.1.11"
   },
   "devDependencies": {
     "@types/node": "22.16.4",
